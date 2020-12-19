@@ -11,7 +11,7 @@
 ```
 no
 
-/* If you have an additional dependency replace te above no to like this 👇
+/* If you have an additional dependency write this like 👇
 "axios": "^0.21.0"
 */
 ```
