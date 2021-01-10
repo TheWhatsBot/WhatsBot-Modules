@@ -16,13 +16,22 @@ no
 */
 ```
 
+### Additional import
+
+```
+const dnslookup = require('./modules/dnslookup')
+```
+
 ### Additional Installation Note
 
 ```
-No same like default
+no
+/*
+You can define additional installation note here
+*/
 ```
 
-### Additional Note
+### Note
 
 ```
 Thank You for using my module you can join my Telegram channel or subscribe me on Youtube
