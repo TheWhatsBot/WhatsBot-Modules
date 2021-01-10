@@ -1,4 +1,4 @@
-### Basic :
+### Basic 
 **Module Name:** Dnslookup<br>
 **Developed By:** [Tuhin Kanti Pal](https://github.com/cachecleanerjeet "Tuhin Kanti Pal")<br>
 **Purpose:** Can Lookup the DNS<br>
